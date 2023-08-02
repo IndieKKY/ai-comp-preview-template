@@ -9,7 +9,7 @@ document.head.appendChild(link);
 
 export default function App() {
   return (
-    <div className="w-[350px] m-3 p-3">
+    <div className="w-full m-3">
       <Comp data={data} />
     </div>
   );
