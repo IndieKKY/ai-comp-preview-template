@@ -1,8 +1,0 @@
-{
-  "title": "📚 My Journey in Programming",
-  "author": "👨‍💻 John Doe",
-  "date": "📅 September 1, 2022",
-  "image": "/avatar.png",
-  "description": "📝 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac ex eget mauris lacinia tempus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec ac semper urna. Sed ut tellus vitae neque faucibus tincidunt. Nam interdum dui nec erat varius, vitae auctor eros congue. Proin scelerisque convallis enim, nec eleifend felis sollicitudin nec. Fusce sit amet tellus ut nunc posuere fringilla. Nulla facilisi. Curabitur euismod, lorem nec fringilla condimentum, purus est tincidunt ligula, non porta est enim in mi. Vivamus ullamcorper, libero quis vestibulum aliquam, nibh urna feugiat nisl, eget consectetur elit quam id lectus.",
-  "tags": ["⌨️ Programming", "🖥️ Web Development", "📖 Learning"]
-}
