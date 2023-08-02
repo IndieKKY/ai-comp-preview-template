@@ -1,6 +1,5 @@
 import * as React from "react";
-import Comp from "./Comp";
-import data from "./data.json";
+import Comp, {Example} from "./Comp";
 
 const link = document.createElement("link");
 link.rel = "stylesheet";
@@ -10,7 +9,7 @@ document.head.appendChild(link);
 export default function App() {
   return (
     <div className="w-full m-3">
-      <Comp data={data} />
+      <Comp data={Example} />
     </div>
   );
 }
