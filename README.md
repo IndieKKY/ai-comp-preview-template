@@ -1,2 +1,2 @@
-# ai-comp-preview-template
-Created with CodeSandbox
+## Github Template Repository
+https://github.com/IndieKKY/ai-comp-preview-template
