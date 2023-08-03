@@ -8,7 +8,7 @@ document.head.appendChild(link);
 
 export default function App() {
   return (
-    <div className="w-full m-3">
+    <div className="w-full p-3">
       <Comp data={Example} />
     </div>
   );
