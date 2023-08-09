@@ -20,7 +20,7 @@ export default function App() {
   return (
     <div className="w-full p-3">
       <div id='CompWrapper' style={{
-        maxHeight: '400px',
+        maxHeight: '500px',
         overflowX: 'hidden',
         overflowY: 'auto',
       }}>
