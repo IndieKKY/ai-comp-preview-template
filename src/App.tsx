@@ -9,7 +9,9 @@ document.head.appendChild(link);
 export default function App() {
   return (
     <div className="w-full p-3">
-      <Comp data={Example} />
+      <div id='CompWrapper'>
+        <Comp data={Example} />
+      </div>
     </div>
   );
 }
